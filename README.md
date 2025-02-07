@@ -22,7 +22,7 @@ git push -uf origin main
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/ramonvierasalas/encuesta/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.com/Gustavo06-san/encuesta/-/settings/integrations)
 
 ## Collaborate with your team
 
